@@ -1,0 +1,351 @@
+/* screen - index */
+
+.index {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(215, 5, 131) 0%, rgb(136, 3.4, 51.14) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
+  height: 982px;
+  width: 1512px;
+}
+
+.index .top-header {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  height: 47px;
+  margin-left: 0.83px;
+  margin-top: 31px;
+  min-width: 1435px;
+  padding: 0 3.4px;
+}
+
+.index .frame-6 {
+  align-items: flex-start;
+  gap: 794px;
+  width: fit-content;
+}
+
+.index .frame-4 {
+  align-items: flex-start;
+  gap: 15px;
+  width: fit-content;
+}
+
+.index .group-216 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64b7e38182e32a540b352830/releases/64b7e3b19063150e11e24776/img/shop-the-influence-2@2x.png);
+  background-size: 100% 100%;
+  height: 40.29px;
+  min-width: 41px;
+  position: relative;
+}
+
+.index .vector-48 {
+  height: 13px;
+  left: 15px;
+  position: absolute;
+  top: -2px;
+  width: 14px;
+}
+
+.index .influcio {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 155px;
+}
+
+.index .frame-5 {
+  align-items: center;
+  gap: 45px;
+  width: fit-content;
+}
+
+.index .frame-3 {
+  align-items: flex-start;
+  gap: 39px;
+  width: fit-content;
+}
+
+.index .place {
+  cursor: pointer;
+  height: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.index .about {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.index .careers {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.index .frame-2 {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(175.28, 43.39, 208.25) 0%, rgb(103.78, 64, 217) 100%);
+  border-radius: 20px;
+  cursor: pointer;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 11px 32px;
+  width: 135px;
+}
+
+.index .sign-up {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: -6.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .overlap-group3 {
+  position: relative;
+}
+
+.index .overlap-group2 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.index .title {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.index .removal-8 {
+  height: 728px;
+  left: 903px;
+  position: absolute;
+  top: 138px;
+  width: 563px;
+}
+
+.index .screenshot-2023-07-16-at-558 {
+  height: 66px;
+  left: 901px;
+  position: absolute;
+  top: 639px;
+  width: 65px;
+}
+
+.index .we-help-you-connect {
+  color: var(--white2);
+  font-family: var(--font-family-clarity_city-bold);
+  font-size: var(--font-size-xl2);
+  font-weight: 700;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 255px;
+  white-space: nowrap;
+}
+
+.index .screenshot-2023-07-16-at-557 {
+  height: 71px;
+  left: 831px;
+  object-fit: cover;
+  position: absolute;
+  top: 375px;
+  width: 70px;
+}
+
+.index .screenshot-2023-07-16-at-557-1 {
+  height: 74px;
+  left: 800px;
+  top: 651px;
+  width: 77px;
+}
+
+.index .screenshot-2023-07-16-at-557-2 {
+  height: 52px;
+  left: 839px;
+  top: 559px;
+  width: 54px;
+}
+
+.index .screenshot-2023-07-16-at-557-3 {
+  height: 69px;
+  left: 614px;
+  top: 547px;
+  width: 69px;
+}
+
+.index .excited-white-girl-b {
+  height: 108px;
+  left: 74px;
+  position: absolute;
+  top: 419px;
+  width: 109px;
+}
+
+.index .group-container {
+  height: 44px;
+  left: 183px;
+  position: absolute;
+  top: 453px;
+  width: 431px;
+}
+
+.index .column-container {
+  top: 13px;
+  width: 431px;
+}
+
+.index .column {
+  background-color: var(--light-yellow);
+  top: 0;
+  transform: rotate(180deg);
+  width: 431px;
+}
+
+.index .column-1 {
+  background: linear-gradient(180deg, rgb(235.88, 152.1, 52.09) 0%, rgb(217, 64, 64) 100%);
+  top: 0;
+  transform: rotate(180deg);
+  width: 257px;
+}
+
+.index .group-1000002716 {
+  height: 44px;
+  left: 239px;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.index .line-592 {
+  height: 1px;
+  left: 185px;
+  object-fit: cover;
+  position: absolute;
+  top: 505px;
+  width: 426px;
+}
+
+.index .group-1000002678 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 24px;
+  left: 119px;
+  min-width: 328px;
+  position: absolute;
+  top: 556px;
+}
+
+.index .group {
+  height: 24px;
+  width: 24px;
+}
+
+.index .increase-revenue {
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+  width: 294px;
+}
+
+.index .group-1000002679 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 24px;
+  left: 119px;
+  min-width: 302px;
+  position: absolute;
+  top: 596px;
+}
+
+.index .enhanced-exposure {
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+  width: 268px;
+}
+
+.index .group-1000002680 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 24px;
+  left: 119px;
+  min-width: 338px;
+  position: absolute;
+  top: 636px;
+}
+
+.index .d-your {
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+  width: 304px;
+}
+
+.index .group-1000002717 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 24px;
+  left: 119px;
+  min-width: 338px;
+  position: absolute;
+  top: 676px;
+}
+
+.index .column-2 {
+  border-radius: 70px;
+  height: 18px;
+  left: 0;
+  position: absolute;
+}
+
+.index .frame {
+  display: flex;
+  position: relative;
+}
+
+.index .overlap {
+  height: 866px;
+  width: 1466px;
+}
+
+.index .screenshot-2023-07-16-at-557-4 {
+  object-fit: cover;
+  position: absolute;
+}
